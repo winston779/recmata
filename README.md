@@ -1,6 +1,6 @@
 # RecMata机场官网地址
 
-最新地址：[recmata.net](https://my.recmata.net/#/register?code=GJashBj6)
+最新地址：[recmata.net](https://console.recursion.store/register?code=GJashBj6)
 
 ## RecMata介绍
 
